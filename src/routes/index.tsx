@@ -137,7 +137,7 @@ function Index() {
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-[1.05]">
               אחסון אתרים <br />
-              <span className="text-gradient">בקצב האור.</span>
+              <span className="text-gradient">בקצב האורכעיכעי.</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-lg leading-relaxed">
               תשתית ענן עוצמתית שמריצה את האתר שלך מהר יותר, בטוח יותר ובלי דאגות.
